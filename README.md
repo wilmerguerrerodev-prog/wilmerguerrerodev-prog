@@ -26,7 +26,7 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,py,firebase,azure,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,py,firebase,azure,git,github,vscode" />
 </div>
 
 ---
