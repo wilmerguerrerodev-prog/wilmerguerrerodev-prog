@@ -1,13 +1,15 @@
 <div align="center">
 
 # Hola, soy Wilmer Guerrero 👋
+### Ingeniero en Tecnologías de la Información | Mobile & Software Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=180&section=header&text=Wilmer%20Guerrero&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Ingeniero%20en%20Tecnolog%C3%ADas%20de%20la%20Informaci%C3%B3n%20|%20Mobile%20%26%20Software%20Developer&descSize=16&descAlignY=68" width="100%"/>
+<!-- Banner dinámico y seguro en SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;C%23+%26+.NET+Backend;Cloud+Solutions+%26+Cybersecurity" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/wilmerguerrerodev-prog)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilmerguerrerodev-prog)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilmerguerrerodev@gmail.com)
 
 </div>
 
@@ -36,12 +38,3 @@
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
 | **Pizzería Sabor y Aroma** | App móvil multiplataforma para pedidos en tiempo real, catálogo dinámico y pasarela de cobros electrónicos. | Flutter, Dart, Firebase, MVVM | [Ver Repositorio](https://github.com/wilmerguerrerodev-prog/pizzeria-sabor-y-aroma-app) |
-
----
-
-### 📊 Mis Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilmerguerrerodev-prog&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmerguerrerodev-prog&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
-</div>
